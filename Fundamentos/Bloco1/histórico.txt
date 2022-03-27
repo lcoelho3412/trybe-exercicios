@@ -1,0 +1,5 @@
+  191  wc cores.txt 
+  192  cat cores.txt 
+  193  history
+  194  history | tail -3
+  195  history | tail -5 > histórico.txt

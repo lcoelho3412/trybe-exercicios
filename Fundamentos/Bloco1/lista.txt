@@ -1,0 +1,12 @@
+amarelo
+vermelho
+azul
+branco
+preto
+marrom
+laranja
+turquesa
+banana
+maca
+morango
+kiwi
