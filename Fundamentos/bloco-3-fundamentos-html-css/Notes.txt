@@ -2,3 +2,14 @@ HTML: liguagem de marcacao
 Esqueleto de uma pagina Web
 Estrutura de uma pagina Web
 Tags representa o que se quer dizer
+Tags comuns: 
+<html lang="pt-br"> 
+<!DOCTYPE html> 
+<img> 
+<ul> 
+<h1><h2>... 
+<ol> <ul>
+Estrutura de tag:
+<nomeTag atributo="valor">
+conteudo da tag
+</nomeTag>
