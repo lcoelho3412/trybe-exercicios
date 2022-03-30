@@ -1,0 +1,4 @@
+HTML: liguagem de marcacao
+Esqueleto de uma pagina Web
+Estrutura de uma pagina Web
+Tags representa o que se quer dizer
